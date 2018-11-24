@@ -1,0 +1,266 @@
+[
+    {
+        "code": "afr",
+        "description": "Afrikaans"
+    },
+    {
+        "code": "ara ",
+        "description": "Arabic"
+    },
+    {
+        "code": "aze ",
+        "description": "Azerbaijani"
+    },
+    {
+        "code": "bel ",
+        "description": "Belarusian"
+    },
+    {
+        "code": "ben ",
+        "description": "Bengali"
+    },
+    {
+        "code": "bul ",
+        "description": "Bulgarian"
+    },
+    {
+        "code": "cat ",
+        "description": "Catalan"
+    },
+    {
+        "code": "ces ",
+        "description": "Czech"
+    },
+    {
+        "code": "chi_sim ",
+        "description": "Chinese"
+    },
+    {
+        "code": "chi_tra ",
+        "description": "Traditional Chinese"
+    },
+    {
+        "code": "chr ",
+        "description": "Cherokee"
+    },
+    {
+        "code": "dan ",
+        "description": "Danish"
+    },
+    {
+        "code": "deu ",
+        "description": "German"
+    },
+    {
+        "code": "ell ",
+        "description": "Greek"
+    },
+    {
+        "code": "eng ",
+        "description": "English"
+    },
+    {
+        "code": "enm ",
+        "description": "English (Old)"
+    },
+    {
+        "code": "epo ",
+        "description": "Esperanto"
+    },
+    {
+        "code": "epo_alt ",
+        "description": "Esperanto alternative"
+    },
+    {
+        "code": "equ ",
+        "description": "Math"
+    },
+    {
+        "code": "est ",
+        "description": "Estonian"
+    },
+    {
+        "code": "eus ",
+        "description": "Basque"
+    },
+    {
+        "code": "fas ",
+        "description": "Persian (Farsi)"
+    },
+    {
+        "code": "fin ",
+        "description": "Finnish"
+    },
+    {
+        "code": "fra ",
+        "description": "French"
+    },
+    {
+        "code": "frk ",
+        "description": "Frankish"
+    },
+    {
+        "code": "frm ",
+        "description": "French (Old)"
+    },
+    {
+        "code": "glg ",
+        "description": "Galician"
+    },
+    {
+        "code": "grc ",
+        "description": "Ancient Greek"
+    },
+    {
+        "code": "heb ",
+        "description": "Hebrew"
+    },
+    {
+        "code": "hin ",
+        "description": "Hindi"
+    },
+    {
+        "code": "hrv ",
+        "description": "Croatian"
+    },
+    {
+        "code": "hun ",
+        "description": "Hungarian"
+    },
+    {
+        "code": "ind ",
+        "description": "Indonesian"
+    },
+    {
+        "code": "isl ",
+        "description": "Icelandic"
+    },
+    {
+        "code": "ita ",
+        "description": "Italian"
+    },
+    {
+        "code": "ita_old ",
+        "description": "Italian (Old)"
+    },
+    {
+        "code": "jpn ",
+        "description": "Japanese"
+    },
+    {
+        "code": "kan ",
+        "description": "Kannada"
+    },
+    {
+        "code": "kor ",
+        "description": "Korean"
+    },
+    {
+        "code": "lav ",
+        "description": "Latvian"
+    },
+    {
+        "code": "lit ",
+        "description": "Lithuanian"
+    },
+    {
+        "code": "mal ",
+        "description": "Malayalam"
+    },
+    {
+        "code": "mkd ",
+        "description": "Macedonian"
+    },
+    {
+        "code": "mlt ",
+        "description": "Maltese"
+    },
+    {
+        "code": "msa ",
+        "description": "Malay"
+    },
+    {
+        "code": "nld ",
+        "description": "Dutch"
+    },
+    {
+        "code": "nor ",
+        "description": "Norwegian"
+    },
+    {
+        "code": "pol ",
+        "description": "Polish"
+    },
+    {
+        "code": "por ",
+        "description": "Portuguese"
+    },
+    {
+        "code": "ron ",
+        "description": "Romanian"
+    },
+    {
+        "code": "rus ",
+        "description": "Russian"
+    },
+    {
+        "code": "slk ",
+        "description": "Slovakian"
+    },
+    {
+        "code": "slv ",
+        "description": "Slovenian"
+    },
+    {
+        "code": "spa ",
+        "description": "Spanish"
+    },
+    {
+        "code": "spa_old ",
+        "description": "Old Spanish"
+    },
+    {
+        "code": "sqi ",
+        "description": "Albanian"
+    },
+    {
+        "code": "srp ",
+        "description": "Serbian (Latin)"
+    },
+    {
+        "code": "swa ",
+        "description": "Swahili"
+    },
+    {
+        "code": "swe ",
+        "description": "Swedish"
+    },
+    {
+        "code": "tam ",
+        "description": "Tamil"
+    },
+    {
+        "code": "tel ",
+        "description": "Telugu"
+    },
+    {
+        "code": "tgl ",
+        "description": "Tagalog"
+    },
+    {
+        "code": "tha ",
+        "description": "Thai"
+    },
+    {
+        "code": "tur ",
+        "description": "Turkish"
+    },
+    {
+        "code": "ukr ",
+        "description": "Ukrainian"
+    },
+    {
+        "code": "vie ",
+        "description": "Vietnamese"
+    }
+]
