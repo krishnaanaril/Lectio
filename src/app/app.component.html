@@ -1,8 +1,19 @@
 <div class="main-wrapper">
-<mat-toolbar color="primary" class="fixed-bar">
-  <mat-toolbar-row>
-    <span>Lectio</span>
-  </mat-toolbar-row>
+  <mat-toolbar color="primary" class="fixed-bar" role="title">
+    <mat-toolbar-row>
+      <span class="header">Lectio</span>
+    </mat-toolbar-row>
   </mat-toolbar>
   <router-outlet></router-outlet>
+  <nav class="navbar fixed-bottom navbar-light bars">
+    <div class="footer-buttons">
+      <span>Show us some love: </span>
+      <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Flectio-2018.firebaseapp.com&layout=button_count&size=large&mobile_iframe=true&appId=719110601592547&width=84&height=28"
+        width="84" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"
+        allow="encrypted-media"></iframe>
+      <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Lectio - A progressive web application which helps to read machine recognisable text from images. It supports more than 60 languages."
+        data-url="https://lectio-2018.firebaseapp.com" data-hashtags="Lectio" data-related="@krishnaanaril" data-show-count="false">Tweet</a>
+    </div>
+  </nav>
+
 </div>

@@ -8,9 +8,11 @@
       </mat-select>
     </mat-form-field>
     <div class="custom-file input-width">
-      <input required type="file" class="custom-file-input"  name="image" (change)="fileChanged($event)" id="customFile">
+      <input required type="file" class="custom-file-input" name="image" (change)="fileChanged($event)" id="customFile">
       <label class="custom-file-label" for="customFile">{{fileInputPlaceHolder}}</label>
-    </div>    
-    <button type="submit" [disabled]="!imageSelected" mat-raised-button color="primary" class="nav-button">Get Text</button>
+    </div>
+    <div class="input-width action">
+      <button type="submit" [disabled]="!imageSelected" mat-raised-button color="primary" class="nav-button">Get Text</button>
+    </div>
   </form>
 </div>

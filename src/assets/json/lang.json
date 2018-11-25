@@ -4,263 +4,263 @@
         "description": "Afrikaans"
     },
     {
-        "code": "ara ",
+        "code": "ara",
         "description": "Arabic"
     },
     {
-        "code": "aze ",
+        "code": "aze",
         "description": "Azerbaijani"
     },
     {
-        "code": "bel ",
+        "code": "bel",
         "description": "Belarusian"
     },
     {
-        "code": "ben ",
+        "code": "ben",
         "description": "Bengali"
     },
     {
-        "code": "bul ",
+        "code": "bul",
         "description": "Bulgarian"
     },
     {
-        "code": "cat ",
+        "code": "cat",
         "description": "Catalan"
     },
     {
-        "code": "ces ",
+        "code": "ces",
         "description": "Czech"
     },
     {
-        "code": "chi_sim ",
+        "code": "chi_sim",
         "description": "Chinese"
     },
     {
-        "code": "chi_tra ",
+        "code": "chi_tra",
         "description": "Traditional Chinese"
     },
     {
-        "code": "chr ",
+        "code": "chr",
         "description": "Cherokee"
     },
     {
-        "code": "dan ",
+        "code": "dan",
         "description": "Danish"
     },
     {
-        "code": "deu ",
+        "code": "deu",
         "description": "German"
     },
     {
-        "code": "ell ",
+        "code": "ell",
         "description": "Greek"
     },
     {
-        "code": "eng ",
+        "code": "eng",
         "description": "English"
     },
     {
-        "code": "enm ",
+        "code": "enm",
         "description": "English (Old)"
     },
     {
-        "code": "epo ",
+        "code": "epo",
         "description": "Esperanto"
     },
     {
-        "code": "epo_alt ",
+        "code": "epo_alt",
         "description": "Esperanto alternative"
     },
     {
-        "code": "equ ",
+        "code": "equ",
         "description": "Math"
     },
     {
-        "code": "est ",
+        "code": "est",
         "description": "Estonian"
     },
     {
-        "code": "eus ",
+        "code": "eus",
         "description": "Basque"
     },
     {
-        "code": "fas ",
+        "code": "fas",
         "description": "Persian (Farsi)"
     },
     {
-        "code": "fin ",
+        "code": "fin",
         "description": "Finnish"
     },
     {
-        "code": "fra ",
+        "code": "fra",
         "description": "French"
     },
     {
-        "code": "frk ",
+        "code": "frk",
         "description": "Frankish"
     },
     {
-        "code": "frm ",
+        "code": "frm",
         "description": "French (Old)"
     },
     {
-        "code": "glg ",
+        "code": "glg",
         "description": "Galician"
     },
     {
-        "code": "grc ",
+        "code": "grc",
         "description": "Ancient Greek"
     },
     {
-        "code": "heb ",
+        "code": "heb",
         "description": "Hebrew"
     },
     {
-        "code": "hin ",
+        "code": "hin",
         "description": "Hindi"
     },
     {
-        "code": "hrv ",
+        "code": "hrv",
         "description": "Croatian"
     },
     {
-        "code": "hun ",
+        "code": "hun",
         "description": "Hungarian"
     },
     {
-        "code": "ind ",
+        "code": "ind",
         "description": "Indonesian"
     },
     {
-        "code": "isl ",
+        "code": "isl",
         "description": "Icelandic"
     },
     {
-        "code": "ita ",
+        "code": "ita",
         "description": "Italian"
     },
     {
-        "code": "ita_old ",
+        "code": "ita_old",
         "description": "Italian (Old)"
     },
     {
-        "code": "jpn ",
+        "code": "jpn",
         "description": "Japanese"
     },
     {
-        "code": "kan ",
+        "code": "kan",
         "description": "Kannada"
     },
     {
-        "code": "kor ",
+        "code": "kor",
         "description": "Korean"
     },
     {
-        "code": "lav ",
+        "code": "lav",
         "description": "Latvian"
     },
     {
-        "code": "lit ",
+        "code": "lit",
         "description": "Lithuanian"
     },
     {
-        "code": "mal ",
+        "code": "mal",
         "description": "Malayalam"
     },
     {
-        "code": "mkd ",
+        "code": "mkd",
         "description": "Macedonian"
     },
     {
-        "code": "mlt ",
+        "code": "mlt",
         "description": "Maltese"
     },
     {
-        "code": "msa ",
+        "code": "msa",
         "description": "Malay"
     },
     {
-        "code": "nld ",
+        "code": "nld",
         "description": "Dutch"
     },
     {
-        "code": "nor ",
+        "code": "nor",
         "description": "Norwegian"
     },
     {
-        "code": "pol ",
+        "code": "pol",
         "description": "Polish"
     },
     {
-        "code": "por ",
+        "code": "por",
         "description": "Portuguese"
     },
     {
-        "code": "ron ",
+        "code": "ron",
         "description": "Romanian"
     },
     {
-        "code": "rus ",
+        "code": "rus",
         "description": "Russian"
     },
     {
-        "code": "slk ",
+        "code": "slk",
         "description": "Slovakian"
     },
     {
-        "code": "slv ",
+        "code": "slv",
         "description": "Slovenian"
     },
     {
-        "code": "spa ",
+        "code": "spa",
         "description": "Spanish"
     },
     {
-        "code": "spa_old ",
+        "code": "spa_old",
         "description": "Old Spanish"
     },
     {
-        "code": "sqi ",
+        "code": "sqi",
         "description": "Albanian"
     },
     {
-        "code": "srp ",
+        "code": "srp",
         "description": "Serbian (Latin)"
     },
     {
-        "code": "swa ",
+        "code": "swa",
         "description": "Swahili"
     },
     {
-        "code": "swe ",
+        "code": "swe",
         "description": "Swedish"
     },
     {
-        "code": "tam ",
+        "code": "tam",
         "description": "Tamil"
     },
     {
-        "code": "tel ",
+        "code": "tel",
         "description": "Telugu"
     },
     {
-        "code": "tgl ",
+        "code": "tgl",
         "description": "Tagalog"
     },
     {
-        "code": "tha ",
+        "code": "tha",
         "description": "Thai"
     },
     {
-        "code": "tur ",
+        "code": "tur",
         "description": "Turkish"
     },
     {
-        "code": "ukr ",
+        "code": "ukr",
         "description": "Ukrainian"
     },
     {
-        "code": "vie ",
+        "code": "vie",
         "description": "Vietnamese"
     }
 ]

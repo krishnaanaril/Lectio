@@ -27,20 +27,35 @@ export class FileInputComponent implements OnInit {
   constructor(private service: DataService
     , private log: LogService
     , private dialog: MatDialog
-  , private router: Router) { }
+    , private router: Router) { }
 
   ngOnInit() {
     this.fileInputPlaceHolder = 'Choose an image';
     this.imageSelected = false;
     this.service.getLanguages().subscribe((res: Array<Language>) => {
       this.languages = res;
-      this.log.info(this.languages.length);
+      this.languages.sort((a, b) => {
+        if (a.description < b.description) {
+          return -1;
+        }
+        if (a.description > b.description) {
+          return 1;
+        }
+        return 0;
+      });
+      console.log(this.languages);
     }, (err) => {
       this.log.error(err);
     }, () => {
-      this.selectedLanguage = this.languages[14].code;
+      this.selectedLanguage = this.languages[16].code;
     });
     this.isProcessing = false;
+    const nVer = navigator.appVersion;
+    const nAgt = navigator.userAgent;
+    const browserName = navigator.appName;
+    this.log.info(nVer);
+    this.log.info(nAgt);
+    this.log.info(browserName);
   }
 
   fileChanged(e) {
@@ -66,7 +81,7 @@ export class FileInputComponent implements OnInit {
       panelClass: 'transparent',
       disableClose: true
     });
-    Tesseract.recognize(myImage)
+    Tesseract.recognize(myImage, { lang: this.selectedLanguage })
       .progress((message: any) => {
         console.log(message);
       })
@@ -75,7 +90,7 @@ export class FileInputComponent implements OnInit {
       })
       .then((result: any) => {
         this.resultText = result.text;
-        this.router.navigate(['/text-display'], {queryParams: {text: this.resultText}});
+        this.router.navigate(['/text-display'], { queryParams: { text: this.resultText } });
       })
       .finally((resultOrError: any) => {
         // TODO

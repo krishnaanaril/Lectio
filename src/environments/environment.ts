@@ -3,7 +3,15 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase: {
+    apiKey: 'AIzaSyAM5X2uXaBuxafXVDsiHzitbuLvIElf330',
+    authDomain: 'lectio-2018.firebaseapp.com',
+    databaseURL: 'https://lectio-2018.firebaseio.com',
+    projectId: 'lectio-2018',
+    storageBucket: 'lectio-2018.appspot.com',
+    messagingSenderId: '469475555922'
+  }
 };
 
 /*
