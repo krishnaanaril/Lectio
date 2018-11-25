@@ -1,19 +1,8 @@
-<div>
-  <h1>Image Reader</h1>
-  <div class="camera">
-    <div>
-      <!-- <video #videoElement></video>
-      <button (click)="takepicture()">Capture</button>
-      <canvas id="canvas" #canvasElement>
-        </canvas> -->
-        <input type="file" accept="image/*" capture="user" (change)="onImageChange($event)">
-    </div>
-    <div>
-        <img id="photo" alt="The screen capture will appear in this box." #imageElement>
-      <button (click)="getText()">Get Text</button>
-    </div>
-  </div>
-  <div>
-    <textarea [(ngModel)]="resultText"></textarea>
-  </div>
+<div class="main-wrapper">
+<mat-toolbar color="primary" class="fixed-bar">
+  <mat-toolbar-row>
+    <span>Lectio</span>
+  </mat-toolbar-row>
+  </mat-toolbar>
+  <router-outlet></router-outlet>
 </div>

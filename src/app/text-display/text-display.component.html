@@ -1,0 +1,9 @@
+<div class="input-wrapper">
+    <mat-form-field class="input-width">
+        <textarea #textArea matInput class="textArea" placeholder="Translated text" [(value)]="resultText"></textarea>
+      </mat-form-field>
+      <div class="input-width action">
+    <button mat-raised-button color="primary" class="nav-button" (click)="back()">Back</button>
+    <button mat-raised-button color="primary" class="nav-button" (click)="copy()">Copy</button>
+  </div>
+  </div>

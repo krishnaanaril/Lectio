@@ -1,0 +1,16 @@
+<div class="input-wrapper">
+  <form (ngSubmit)="getText($event)" #userForm="ngForm">
+    <mat-form-field class="input-width">
+      <mat-select placeholder="Text Language" name="language" [(ngModel)]="selectedLanguage">
+        <mat-option *ngFor="let lang of languages" [value]="lang.code">
+          {{lang.description}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+    <div class="custom-file input-width">
+      <input required type="file" class="custom-file-input"  name="image" (change)="fileChanged($event)" id="customFile">
+      <label class="custom-file-label" for="customFile">{{fileInputPlaceHolder}}</label>
+    </div>    
+    <button type="submit" [disabled]="!imageSelected" mat-raised-button color="primary" class="nav-button">Get Text</button>
+  </form>
+</div>
